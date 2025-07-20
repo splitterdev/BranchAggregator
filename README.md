@@ -46,7 +46,7 @@ curl "http://localhost:8080/repodata/octocat"
         "lastCommitSHA": "123abc"
       }
     ]
-  }, (...)
+  }
 ]
 ```
 ### Error handling
